@@ -1,0 +1,28 @@
+div{
+	margin:0px auto;
+	max-width: 700px;
+	width:80%;
+	border:15px solid #bdc3c7;
+	padding: 2%;
+	font-family: 'Merriweather', serif;
+	/*align-self: center;*/
+}
+
+p{
+	/*text-align: :left;*/
+
+}
+.date{
+	color:#3498db;
+	text-transform: uppercase;
+	/*margin:1.2%;*/
+}
+.headingblog
+{
+	color:#2c2e50;
+}
+.mainp{
+	border-left: 7px solid #bdc3c7;
+	/*text-align: left;*/
+	padding-left: 1%;
+}

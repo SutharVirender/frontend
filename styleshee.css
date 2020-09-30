@@ -1,0 +1,18 @@
+body{
+	background: black;
+	/*font-style: merriweather;*/
+	color: rgb(140,10,249);
+}
+img{
+width:30%;
+float:left;
+margin:1.66%;
+}
+p{
+	margin-left: 1.66%;
+	font-size: 300%;
+	text-transform: uppercase;
+	border-bottom: 2px solid rgb(180,180,180);
+	padding-bottom: 20px;
+	width:55%;
+}
